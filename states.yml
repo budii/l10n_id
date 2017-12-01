@@ -71,4 +71,23 @@
   country_id: "93"
   id: "53"
   abbr: NTT  
-  
+- name: Kalimantan Barat
+  country_id: "93"
+  id: "61"
+  abbr: Kalbar   
+- name: Kalimantan Tengah
+  country_id: "93"
+  id: "62"
+  abbr: Kalteng  
+- name: Kalimantan Selatan
+  country_id: "93"
+  id: "63"
+  abbr: Kalsel
+- name: Kalimantan Timur
+  country_id: "93"
+  id: "64"
+  abbr: Kaltim
+  - name: Kalimantan Utara
+  country_id: "93"
+  id: "65"
+  abbr: Kalut 
