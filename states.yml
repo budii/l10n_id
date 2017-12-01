@@ -91,3 +91,44 @@
   country_id: "93"
   id: "65"
   abbr: Kalut 
+- name: Sulawesi Utara
+  country_id: "93"
+  id: "71"
+  abbr: Sulut
+- name: Sulawesi Tengah
+  country_id: "93"
+  id: "72"
+  abbr: Sulteng
+- name: Sulawesi Selatan
+  country_id: "93"
+  id: "73"
+  abbr: Sulsel
+- name: Sulawesi Tenggara
+  country_id: "93"
+  id: "74"
+  abbr: Sulteng
+- name: Gorontalo
+  country_id: "93"
+  id: "75"
+  abbr: Gorontalo
+- name: Sulawesi Barat
+  country_id: "93"
+  id: "76"
+  abbr: Sulbar
+- name: Maluku
+  country_id: "93"
+  id: "81"
+  abbr: Maluku
+- name: Maluku Utara
+  country_id: "93"
+  id: "82"
+  abbr: Malut
+- name: Papua
+  country_id: "93"
+  id: "91"
+  abbr: Papua
+- name: Papua Barat
+  country_id: "93"
+  id: "91"
+  abbr: Papua Barat
+  
