@@ -4,58 +4,71 @@
   id: "11"
   abbr: Aceh
 - name: Sumatra Utara
-  country_id: "12"
+  country_id: "93"
   id: "12"
   abbr: Sumut
 - name: Sumatra Barat
-  country_id: "12"
+  country_id: "93"
   id: "13"
   abbr: Sumbar
 - name: Riau
-  country_id: "12"
+  country_id: "93"
   id: "14"
   abbr: Riau  
 - name: Jambi
-  country_id: "12"
+  country_id: "93"
   id: "15"
   abbr: Jambi
 - name: Sumatra Selatan
-  country_id: "12"
+  country_id: "93"
   id: "16"
   abbr: Sumsel
 - name: Bengkulu
-  country_id: "12"
+  country_id: "93"
   id: "17"
   abbr: Bengkulu
 - name: Lampung
-  country_id: "12"
+  country_id: "93"
   id: "18"
   abbr: Lampung
 - name: Kepulauan Bangka Belitung
-  country_id: "12"
+  country_id: "93"
   id: "19"
   abbr: Babel  
 - name: Kepulauan Riau
-  country_id: "12"
+  country_id: "93"
   id: "21"
   abbr: Kepri
 - name: DKI Jakarta
-  country_id: "31"
-  id: "12"
+  country_id: "93"
+  id: "31"
   abbr: Jakarta
 - name: Jawa Barat
-  country_id: "32"
-  id: "12"
+  country_id: "93"
+  id: "32"
   abbr: Jabar
 - name: Jawa Tengah
-  country_id: "12"
+  country_id: "93"
   id: "33"
   abbr: Jateng  
 - name: DI Yogyakarta
-  country_id: "12"
+  country_id: "93"
   id: "34"
   abbr: DIY
 - name: Jawa Timur
-  country_id: "12"
+  country_id: "93"
   id: "35"
   abbr: Jatim  
+- name: Bali
+  country_id: "93"
+  id: "51"
+  abbr: bali  
+- name: Nusa Tenggara Barat
+  country_id: "93"
+  id: "52"
+  abbr: NTB
+- name: Nusa Tenggara Timur
+  country_id: "93"
+  id: "53"
+  abbr: NTT  
+  
