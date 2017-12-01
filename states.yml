@@ -51,3 +51,11 @@
   country_id: "12"
   id: "33"
   abbr: Jateng  
+- name: DI Yogyakarta
+  country_id: "12"
+  id: "34"
+  abbr: DIY
+- name: Jawa Timur
+  country_id: "12"
+  id: "35"
+  abbr: Jatim  
