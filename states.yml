@@ -35,3 +35,19 @@
   country_id: "12"
   id: "19"
   abbr: Babel  
+- name: Kepulauan Riau
+  country_id: "12"
+  id: "21"
+  abbr: Kepri
+- name: DKI Jakarta
+  country_id: "31"
+  id: "12"
+  abbr: Jakarta
+- name: Jawa Barat
+  country_id: "32"
+  id: "12"
+  abbr: Jabar
+- name: Jawa Tengah
+  country_id: "12"
+  id: "33"
+  abbr: Jateng  
