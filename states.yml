@@ -15,3 +15,23 @@
   country_id: "12"
   id: "14"
   abbr: Riau  
+- name: Jambi
+  country_id: "12"
+  id: "15"
+  abbr: Jambi
+- name: Sumatra Selatan
+  country_id: "12"
+  id: "16"
+  abbr: Sumsel
+- name: Bengkulu
+  country_id: "12"
+  id: "17"
+  abbr: Bengkulu
+- name: Lampung
+  country_id: "12"
+  id: "18"
+  abbr: Lampung
+- name: Kepulauan Bangka Belitung
+  country_id: "12"
+  id: "19"
+  abbr: Babel  
